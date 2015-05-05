@@ -37,12 +37,12 @@ $fa-var-arrows-h: "\f07e";
 $fa-var-arrows-v: "\f07d";
 $fa-var-asterisk: "\f069";
 $fa-var-at: "\f1fa";
-$fa-var-automobile: "\f1b9";
+$fa-var-automobile: "\f1b9"; /*alias*/
 $fa-var-backward: "\f04a";
 $fa-var-ban: "\f05e";
-$fa-var-bank: "\f19c";
+$fa-var-bank: "\f19c"; /*alias*/
 $fa-var-bar-chart: "\f080";
-$fa-var-bar-chart-o: "\f080";
+$fa-var-bar-chart-o: "\f080"; /*alias*/
 $fa-var-barcode: "\f02a";
 $fa-var-bars: "\f0c9";
 $fa-var-bed: "\f236";
@@ -58,7 +58,7 @@ $fa-var-binoculars: "\f1e5";
 $fa-var-birthday-cake: "\f1fd";
 $fa-var-bitbucket: "\f171";
 $fa-var-bitbucket-square: "\f172";
-$fa-var-bitcoin: "\f15a";
+$fa-var-bitcoin: "\f15a"; /*alias*/
 $fa-var-bold: "\f032";
 $fa-var-bolt: "\f0e7";
 $fa-var-bomb: "\f1e2";
@@ -74,7 +74,7 @@ $fa-var-bullhorn: "\f0a1";
 $fa-var-bullseye: "\f140";
 $fa-var-bus: "\f207";
 $fa-var-buysellads: "\f20d";
-$fa-var-cab: "\f1ba";
+$fa-var-cab: "\f1ba"; /*alias*/
 $fa-var-calculator: "\f1ec";
 $fa-var-calendar: "\f073";
 $fa-var-calendar-o: "\f133";
@@ -99,7 +99,7 @@ $fa-var-cc-paypal: "\f1f4";
 $fa-var-cc-stripe: "\f1f5";
 $fa-var-cc-visa: "\f1f0";
 $fa-var-certificate: "\f0a3";
-$fa-var-chain: "\f0c1";
+$fa-var-chain: "\f0c1"; /*alias*/
 $fa-var-chain-broken: "\f127";
 $fa-var-check: "\f00c";
 $fa-var-check-circle: "\f058";
@@ -121,11 +121,11 @@ $fa-var-circle-o-notch: "\f1ce";
 $fa-var-circle-thin: "\f1db";
 $fa-var-clipboard: "\f0ea";
 $fa-var-clock-o: "\f017";
-$fa-var-close: "\f00d";
+$fa-var-close: "\f00d"; /*alias*/
 $fa-var-cloud: "\f0c2";
 $fa-var-cloud-download: "\f0ed";
 $fa-var-cloud-upload: "\f0ee";
-$fa-var-cny: "\f157";
+$fa-var-cny: "\f157"; /*alias*/
 $fa-var-code: "\f121";
 $fa-var-code-fork: "\f126";
 $fa-var-codepen: "\f1cb";
@@ -140,7 +140,7 @@ $fa-var-comments-o: "\f0e6";
 $fa-var-compass: "\f14e";
 $fa-var-compress: "\f066";
 $fa-var-connectdevelop: "\f20e";
-$fa-var-copy: "\f0c5";
+$fa-var-copy: "\f0c5"; /*alias*/
 $fa-var-copyright: "\f1f9";
 $fa-var-credit-card: "\f09d";
 $fa-var-crop: "\f125";
@@ -148,24 +148,24 @@ $fa-var-crosshairs: "\f05b";
 $fa-var-css3: "\f13c";
 $fa-var-cube: "\f1b2";
 $fa-var-cubes: "\f1b3";
-$fa-var-cut: "\f0c4";
+$fa-var-cut: "\f0c4"; /*alias*/
 $fa-var-cutlery: "\f0f5";
-$fa-var-dashboard: "\f0e4";
+$fa-var-dashboard: "\f0e4"; /*alias*/
 $fa-var-dashcube: "\f210";
 $fa-var-database: "\f1c0";
-$fa-var-dedent: "\f03b";
+$fa-var-dedent: "\f03b"; /*alias*/
 $fa-var-delicious: "\f1a5";
 $fa-var-desktop: "\f108";
 $fa-var-deviantart: "\f1bd";
 $fa-var-diamond: "\f219";
 $fa-var-digg: "\f1a6";
-$fa-var-dollar: "\f155";
+$fa-var-dollar: "\f155"; /*alias*/
 $fa-var-dot-circle-o: "\f192";
 $fa-var-download: "\f019";
 $fa-var-dribbble: "\f17d";
 $fa-var-dropbox: "\f16b";
 $fa-var-drupal: "\f1a9";
-$fa-var-edit: "\f044";
+$fa-var-edit: "\f044"; /*alias*/
 $fa-var-eject: "\f052";
 $fa-var-ellipsis-h: "\f141";
 $fa-var-ellipsis-v: "\f142";
@@ -175,7 +175,7 @@ $fa-var-envelope-o: "\f003";
 $fa-var-envelope-square: "\f199";
 $fa-var-eraser: "\f12d";
 $fa-var-eur: "\f153";
-$fa-var-euro: "\f153";
+$fa-var-euro: "\f153"; /*alias*/
 $fa-var-exchange: "\f0ec";
 $fa-var-exclamation: "\f12a";
 $fa-var-exclamation-circle: "\f06a";
@@ -187,7 +187,7 @@ $fa-var-eye: "\f06e";
 $fa-var-eye-slash: "\f070";
 $fa-var-eyedropper: "\f1fb";
 $fa-var-facebook: "\f09a";
-$fa-var-facebook-f: "\f09a";
+$fa-var-facebook-f: "\f09a"; /*alias*/
 $fa-var-facebook-official: "\f230";
 $fa-var-facebook-square: "\f082";
 $fa-var-fast-backward: "\f049";
@@ -201,18 +201,18 @@ $fa-var-file-audio-o: "\f1c7";
 $fa-var-file-code-o: "\f1c9";
 $fa-var-file-excel-o: "\f1c3";
 $fa-var-file-image-o: "\f1c5";
-$fa-var-file-movie-o: "\f1c8";
+$fa-var-file-movie-o: "\f1c8"; /*alias*/
 $fa-var-file-o: "\f016";
 $fa-var-file-pdf-o: "\f1c1";
-$fa-var-file-photo-o: "\f1c5";
-$fa-var-file-picture-o: "\f1c5";
+$fa-var-file-photo-o: "\f1c5"; /*alias*/
+$fa-var-file-picture-o: "\f1c5"; /*alias*/
 $fa-var-file-powerpoint-o: "\f1c4";
-$fa-var-file-sound-o: "\f1c7";
+$fa-var-file-sound-o: "\f1c7"; /*alias*/
 $fa-var-file-text: "\f15c";
 $fa-var-file-text-o: "\f0f6";
 $fa-var-file-video-o: "\f1c8";
 $fa-var-file-word-o: "\f1c2";
-$fa-var-file-zip-o: "\f1c6";
+$fa-var-file-zip-o: "\f1c6"; /*alias*/
 $fa-var-files-o: "\f0c5";
 $fa-var-film: "\f008";
 $fa-var-filter: "\f0b0";
@@ -221,7 +221,7 @@ $fa-var-fire-extinguisher: "\f134";
 $fa-var-flag: "\f024";
 $fa-var-flag-checkered: "\f11e";
 $fa-var-flag-o: "\f11d";
-$fa-var-flash: "\f0e7";
+$fa-var-flash: "\f0e7"; /*alias*/
 $fa-var-flask: "\f0c3";
 $fa-var-flickr: "\f16e";
 $fa-var-floppy-o: "\f0c7";
@@ -238,17 +238,17 @@ $fa-var-futbol-o: "\f1e3";
 $fa-var-gamepad: "\f11b";
 $fa-var-gavel: "\f0e3";
 $fa-var-gbp: "\f154";
-$fa-var-ge: "\f1d1";
-$fa-var-gear: "\f013";
-$fa-var-gears: "\f085";
-$fa-var-genderless: "\f1db";
+$fa-var-ge: "\f1d1"; /*alias*/
+$fa-var-gear: "\f013"; /*alias*/
+$fa-var-gears: "\f085"; /*alias*/
+$fa-var-genderless: "\f1db"; /*alias*/
 $fa-var-gift: "\f06b";
 $fa-var-git: "\f1d3";
 $fa-var-git-square: "\f1d2";
 $fa-var-github: "\f09b";
 $fa-var-github-alt: "\f113";
 $fa-var-github-square: "\f092";
-$fa-var-gittip: "\f184";
+$fa-var-gittip: "\f184"; /*alias*/
 $fa-var-glass: "\f000";
 $fa-var-globe: "\f0ac";
 $fa-var-google: "\f1a0";
@@ -257,7 +257,7 @@ $fa-var-google-plus-square: "\f0d4";
 $fa-var-google-wallet: "\f1ee";
 $fa-var-graduation-cap: "\f19d";
 $fa-var-gratipay: "\f184";
-$fa-var-group: "\f0c0";
+$fa-var-group: "\f0c0"; /*alias*/
 $fa-var-h-square: "\f0fd";
 $fa-var-hacker-news: "\f1d4";
 $fa-var-hand-o-down: "\f0a7";
@@ -273,17 +273,17 @@ $fa-var-heartbeat: "\f21e";
 $fa-var-history: "\f1da";
 $fa-var-home: "\f015";
 $fa-var-hospital-o: "\f0f8";
-$fa-var-hotel: "\f236";
+$fa-var-hotel: "\f236";  /*alias*/
 $fa-var-html5: "\f13b";
 $fa-var-ils: "\f20b";
-$fa-var-image: "\f03e";
+$fa-var-image: "\f03e"; /*alias*/
 $fa-var-inbox: "\f01c";
 $fa-var-indent: "\f03c";
 $fa-var-info: "\f129";
 $fa-var-info-circle: "\f05a";
 $fa-var-inr: "\f156";
 $fa-var-instagram: "\f16d";
-$fa-var-institution: "\f19c";
+$fa-var-institution: "\f19c"; /*alias*/
 $fa-var-ioxhost: "\f208";
 $fa-var-italic: "\f033";
 $fa-var-joomla: "\f1aa";
@@ -298,14 +298,14 @@ $fa-var-lastfm: "\f202";
 $fa-var-lastfm-square: "\f203";
 $fa-var-leaf: "\f06c";
 $fa-var-leanpub: "\f212";
-$fa-var-legal: "\f0e3";
+$fa-var-legal: "\f0e3"; /*alias*/
 $fa-var-lemon-o: "\f094";
 $fa-var-level-down: "\f149";
 $fa-var-level-up: "\f148";
-$fa-var-life-bouy: "\f1cd";
-$fa-var-life-buoy: "\f1cd";
+$fa-var-life-bouy: "\f1cd"; /*alias*/
+$fa-var-life-buoy: "\f1cd"; /*alias*/
 $fa-var-life-ring: "\f1cd";
-$fa-var-life-saver: "\f1cd";
+$fa-var-life-saver: "\f1cd"; /*alias*/
 $fa-var-lightbulb-o: "\f0eb";
 $fa-var-line-chart: "\f201";
 $fa-var-link: "\f0c1";
@@ -324,9 +324,9 @@ $fa-var-long-arrow-right: "\f178";
 $fa-var-long-arrow-up: "\f176";
 $fa-var-magic: "\f0d0";
 $fa-var-magnet: "\f076";
-$fa-var-mail-forward: "\f064";
-$fa-var-mail-reply: "\f112";
-$fa-var-mail-reply-all: "\f122";
+$fa-var-mail-forward: "\f064"; /*alias*/
+$fa-var-mail-reply: "\f112"; /*alias*/
+$fa-var-mail-reply-all: "\f122"; /*alias*/
 $fa-var-male: "\f183";
 $fa-var-map-marker: "\f041";
 $fa-var-mars: "\f222";
@@ -347,13 +347,13 @@ $fa-var-minus-circle: "\f056";
 $fa-var-minus-square: "\f146";
 $fa-var-minus-square-o: "\f147";
 $fa-var-mobile: "\f10b";
-$fa-var-mobile-phone: "\f10b";
+$fa-var-mobile-phone: "\f10b"; /*alias*/
 $fa-var-money: "\f0d6";
 $fa-var-moon-o: "\f186";
-$fa-var-mortar-board: "\f19d";
+$fa-var-mortar-board: "\f19d"; /*alias*/
 $fa-var-motorcycle: "\f21c";
 $fa-var-music: "\f001";
-$fa-var-navicon: "\f0c9";
+$fa-var-navicon: "\f0c9"; /*alias*/
 $fa-var-neuter: "\f22c";
 $fa-var-newspaper-o: "\f1ea";
 $fa-var-openid: "\f19b";
@@ -364,7 +364,7 @@ $fa-var-paper-plane: "\f1d8";
 $fa-var-paper-plane-o: "\f1d9";
 $fa-var-paperclip: "\f0c6";
 $fa-var-paragraph: "\f1dd";
-$fa-var-paste: "\f0ea";
+$fa-var-paste: "\f0ea"; /*alias*/
 $fa-var-pause: "\f04c";
 $fa-var-paw: "\f1b0";
 $fa-var-paypal: "\f1ed";
@@ -373,7 +373,7 @@ $fa-var-pencil-square: "\f14b";
 $fa-var-pencil-square-o: "\f044";
 $fa-var-phone: "\f095";
 $fa-var-phone-square: "\f098";
-$fa-var-photo: "\f03e";
+$fa-var-photo: "\f03e"; /*alias*/
 $fa-var-picture-o: "\f03e";
 $fa-var-pie-chart: "\f200";
 $fa-var-pied-piper: "\f1a7";
@@ -399,47 +399,47 @@ $fa-var-question: "\f128";
 $fa-var-question-circle: "\f059";
 $fa-var-quote-left: "\f10d";
 $fa-var-quote-right: "\f10e";
-$fa-var-ra: "\f1d0";
+$fa-var-ra: "\f1d0"; /*alias*/
 $fa-var-random: "\f074";
 $fa-var-rebel: "\f1d0";
 $fa-var-recycle: "\f1b8";
 $fa-var-reddit: "\f1a1";
 $fa-var-reddit-square: "\f1a2";
 $fa-var-refresh: "\f021";
-$fa-var-remove: "\f00d";
+$fa-var-remove: "\f00d"; /*alias*/
 $fa-var-renren: "\f18b";
-$fa-var-reorder: "\f0c9";
+$fa-var-reorder: "\f0c9"; /*alias*/
 $fa-var-repeat: "\f01e";
 $fa-var-reply: "\f112";
 $fa-var-reply-all: "\f122";
 $fa-var-retweet: "\f079";
-$fa-var-rmb: "\f157";
+$fa-var-rmb: "\f157"; /*alias*/
 $fa-var-road: "\f018";
 $fa-var-rocket: "\f135";
-$fa-var-rotate-left: "\f0e2";
-$fa-var-rotate-right: "\f01e";
-$fa-var-rouble: "\f158";
+$fa-var-rotate-left: "\f0e2"; /*alias*/
+$fa-var-rotate-right: "\f01e"; /*alias*/
+$fa-var-rouble: "\f158"; /*alias*/
 $fa-var-rss: "\f09e";
 $fa-var-rss-square: "\f143";
 $fa-var-rub: "\f158";
-$fa-var-ruble: "\f158";
-$fa-var-rupee: "\f156";
-$fa-var-save: "\f0c7";
+$fa-var-ruble: "\f158"; /*alias*/
+$fa-var-rupee: "\f156"; /*alias*/
+$fa-var-save: "\f0c7"; /*alias*/
 $fa-var-scissors: "\f0c4";
 $fa-var-search: "\f002";
 $fa-var-search-minus: "\f010";
 $fa-var-search-plus: "\f00e";
 $fa-var-sellsy: "\f213";
-$fa-var-send: "\f1d8";
-$fa-var-send-o: "\f1d9";
+$fa-var-send: "\f1d8"; /*alias*/
+$fa-var-send-o: "\f1d9"; /*alias*/
 $fa-var-server: "\f233";
 $fa-var-share: "\f064";
 $fa-var-share-alt: "\f1e0";
 $fa-var-share-alt-square: "\f1e1";
 $fa-var-share-square: "\f14d";
 $fa-var-share-square-o: "\f045";
-$fa-var-shekel: "\f20b";
-$fa-var-sheqel: "\f20b";
+$fa-var-shekel: "\f20b"; /*alias*/
+$fa-var-sheqel: "\f20b"; /*alias*/
 $fa-var-shield: "\f132";
 $fa-var-ship: "\f21a";
 $fa-var-shirtsinbulk: "\f214";
@@ -455,7 +455,7 @@ $fa-var-slack: "\f198";
 $fa-var-sliders: "\f1de";
 $fa-var-slideshare: "\f1e7";
 $fa-var-smile-o: "\f118";
-$fa-var-soccer-ball-o: "\f1e3";
+$fa-var-soccer-ball-o: "\f1e3"; /*alias*/
 $fa-var-sort: "\f0dc";
 $fa-var-sort-alpha-asc: "\f15d";
 $fa-var-sort-alpha-desc: "\f15e";
@@ -463,10 +463,10 @@ $fa-var-sort-amount-asc: "\f160";
 $fa-var-sort-amount-desc: "\f161";
 $fa-var-sort-asc: "\f0de";
 $fa-var-sort-desc: "\f0dd";
-$fa-var-sort-down: "\f0dd";
+$fa-var-sort-down: "\f0dd"; /*alias*/
 $fa-var-sort-numeric-asc: "\f162";
 $fa-var-sort-numeric-desc: "\f163";
-$fa-var-sort-up: "\f0de";
+$fa-var-sort-up: "\f0de"; /*alias*/
 $fa-var-soundcloud: "\f1be";
 $fa-var-space-shuttle: "\f197";
 $fa-var-spinner: "\f110";
@@ -478,8 +478,8 @@ $fa-var-stack-exchange: "\f18d";
 $fa-var-stack-overflow: "\f16c";
 $fa-var-star: "\f005";
 $fa-var-star-half: "\f089";
-$fa-var-star-half-empty: "\f123";
-$fa-var-star-half-full: "\f123";
+$fa-var-star-half-empty: "\f123"; /*alias*/
+$fa-var-star-half-full: "\f123"; /*alias*/
 $fa-var-star-half-o: "\f123";
 $fa-var-star-o: "\f006";
 $fa-var-steam: "\f1b6";
@@ -497,7 +497,7 @@ $fa-var-subway: "\f239";
 $fa-var-suitcase: "\f0f2";
 $fa-var-sun-o: "\f185";
 $fa-var-superscript: "\f12b";
-$fa-var-support: "\f1cd";
+$fa-var-support: "\f1cd"; /*alias*/
 $fa-var-table: "\f0ce";
 $fa-var-tablet: "\f10a";
 $fa-var-tachometer: "\f0e4";
@@ -522,12 +522,12 @@ $fa-var-times: "\f00d";
 $fa-var-times-circle: "\f057";
 $fa-var-times-circle-o: "\f05c";
 $fa-var-tint: "\f043";
-$fa-var-toggle-down: "\f150";
-$fa-var-toggle-left: "\f191";
+$fa-var-toggle-down: "\f150"; /*alias*/
+$fa-var-toggle-left: "\f191"; /*alias*/
 $fa-var-toggle-off: "\f204";
 $fa-var-toggle-on: "\f205";
-$fa-var-toggle-right: "\f152";
-$fa-var-toggle-up: "\f151";
+$fa-var-toggle-right: "\f152"; /*alias*/
+$fa-var-toggle-up: "\f151"; /*alias*/
 $fa-var-train: "\f238";
 $fa-var-transgender: "\f224";
 $fa-var-transgender-alt: "\f225";
@@ -541,7 +541,7 @@ $fa-var-try: "\f195";
 $fa-var-tty: "\f1e4";
 $fa-var-tumblr: "\f173";
 $fa-var-tumblr-square: "\f174";
-$fa-var-turkish-lira: "\f195";
+$fa-var-turkish-lira: "\f195"; /*alias*/
 $fa-var-twitch: "\f1e8";
 $fa-var-twitter: "\f099";
 $fa-var-twitter-square: "\f081";
@@ -549,10 +549,10 @@ $fa-var-umbrella: "\f0e9";
 $fa-var-underline: "\f0cd";
 $fa-var-undo: "\f0e2";
 $fa-var-university: "\f19c";
-$fa-var-unlink: "\f127";
+$fa-var-unlink: "\f127"; /*alias*/
 $fa-var-unlock: "\f09c";
 $fa-var-unlock-alt: "\f13e";
-$fa-var-unsorted: "\f0dc";
+$fa-var-unsorted: "\f0dc"; /*alias*/
 $fa-var-upload: "\f093";
 $fa-var-usd: "\f155";
 $fa-var-user: "\f007";
@@ -572,22 +572,22 @@ $fa-var-vk: "\f189";
 $fa-var-volume-down: "\f027";
 $fa-var-volume-off: "\f026";
 $fa-var-volume-up: "\f028";
-$fa-var-warning: "\f071";
-$fa-var-wechat: "\f1d7";
+$fa-var-warning: "\f071"; /*alias*/
+$fa-var-wechat: "\f1d7"; /*alias*/
 $fa-var-weibo: "\f18a";
 $fa-var-weixin: "\f1d7";
 $fa-var-whatsapp: "\f232";
 $fa-var-wheelchair: "\f193";
 $fa-var-wifi: "\f1eb";
 $fa-var-windows: "\f17a";
-$fa-var-won: "\f159";
+$fa-var-won: "\f159"; /*alias*/
 $fa-var-wordpress: "\f19a";
 $fa-var-wrench: "\f0ad";
 $fa-var-xing: "\f168";
 $fa-var-xing-square: "\f169";
 $fa-var-yahoo: "\f19e";
 $fa-var-yelp: "\f1e9";
-$fa-var-yen: "\f157";
+$fa-var-yen: "\f157"; /*alias*/
 $fa-var-youtube: "\f167";
 $fa-var-youtube-play: "\f16a";
 $fa-var-youtube-square: "\f166";
