@@ -7230,7 +7230,9 @@
         "width": 928.5714285714286
       },
       "search": [
-        "cart-plus"
+        "basket",
+        "shopping",
+        "cart"
       ]
     },
     {
@@ -7244,7 +7246,9 @@
         "width": 1000
       },
       "search": [
-        "cart-arrow-down"
+        "basket",
+        "shopping",
+        "cart"
       ]
     },
     {
@@ -7272,7 +7276,10 @@
         "width": 1142.857142857143
       },
       "search": [
-        "ship"
+        "ship",
+        "boat",
+        "cruise",
+        "sea"
       ]
     },
     {
@@ -7286,7 +7293,10 @@
         "width": 857.1428571428571
       },
       "search": [
-        "user-secret"
+        "agent",
+        "secret",
+        "private",
+        "incognito"
       ]
     },
     {
@@ -7300,7 +7310,9 @@
         "width": 1285.7142857142858
       },
       "search": [
-        "motorcycle"
+        "motorcycle",
+        "bike",
+        "moto"
       ]
     },
     {
@@ -7314,7 +7326,12 @@
         "width": 857.1428571428571
       },
       "search": [
-        "street-view"
+        "street",
+        "view",
+        "user",
+        "man",
+        "360",
+        "around"
       ]
     },
     {
@@ -7328,7 +7345,12 @@
         "width": 1000
       },
       "search": [
-        "heartbeat"
+        "heartbeat",
+        "pulse",
+        "beat",
+        "heart",
+        "cardio",
+        "health"
       ]
     },
     {
@@ -7342,7 +7364,9 @@
         "width": 714.2857142857143
       },
       "search": [
-        "venus"
+        "venus",
+        "female",
+        "gender"
       ]
     },
     {
@@ -7356,7 +7380,9 @@
         "width": 1000
       },
       "search": [
-        "mars"
+        "mars",
+        "male",
+        "gender"
       ]
     },
     {
@@ -7370,7 +7396,8 @@
         "width": 714.2857142857143
       },
       "search": [
-        "mercury"
+        "mercury",
+        "gender"
       ]
     },
     {
@@ -7384,7 +7411,8 @@
         "width": 857.1428571428571
       },
       "search": [
-        "transgender"
+        "transgender",
+        "gender"
       ]
     },
     {
@@ -7398,7 +7426,8 @@
         "width": 1000
       },
       "search": [
-        "transgender-alt"
+        "transgender",
+        "gender"
       ]
     },
     {
@@ -7412,7 +7441,9 @@
         "width": 1000
       },
       "search": [
-        "venus-double"
+        "venus",
+        "double",
+        "gender"
       ]
     },
     {
@@ -7426,7 +7457,9 @@
         "width": 1071.4285714285716
       },
       "search": [
-        "mars-double"
+        "mars",
+        "double",
+        "gender"
       ]
     },
     {
@@ -7440,7 +7473,9 @@
         "width": 1142.857142857143
       },
       "search": [
-        "venus-mars"
+        "venus",
+        "mars",
+        "gender"
       ]
     },
     {
@@ -7454,7 +7489,9 @@
         "width": 1000
       },
       "search": [
-        "mars-stroke"
+        "mars",
+        "stroke",
+        "gender"
       ]
     },
     {
@@ -7468,7 +7505,9 @@
         "width": 714.2857142857143
       },
       "search": [
-        "mars-stroke-v"
+        "mars",
+        "stroke",
+        "gender"
       ]
     },
     {
@@ -7482,7 +7521,9 @@
         "width": 1142.857142857143
       },
       "search": [
-        "mars-stroke-h"
+        "mars",
+        "stroke",
+        "gender"
       ]
     },
     {
@@ -7496,7 +7537,9 @@
         "width": 714.2857142857143
       },
       "search": [
-        "neuter"
+        "neuter",
+        "neutral",
+        "gender"
       ]
     },
     {
@@ -7510,7 +7553,8 @@
         "width": 857.1428571428571
       },
       "search": [
-        "facebook-official"
+        "facebook",
+        "official"
       ]
     },
     {
@@ -7524,7 +7568,7 @@
         "width": 714.2857142857143
       },
       "search": [
-        "pinterest-p"
+        "pinterest"
       ]
     },
     {
@@ -7566,7 +7610,9 @@
         "width": 1142.857142857143
       },
       "search": [
-        "user-plus"
+        "user",
+        "plus",
+        "add"
       ]
     },
     {
@@ -7580,7 +7626,12 @@
         "width": 1142.857142857143
       },
       "search": [
-        "user-times"
+        "user",
+        "times",
+        "remove",
+        "close",
+        "cancel",
+        "reject"
       ]
     },
     {
@@ -7594,7 +7645,10 @@
         "width": 1142.857142857143
       },
       "search": [
-        "bed"
+        "bed",
+        "hotel",
+        "bedroom",
+        "sleep"
       ]
     },
     {
@@ -7636,7 +7690,9 @@
         "width": 857.1428571428571
       },
       "search": [
-        "subway"
+        "subway",
+        "metro",
+        "tram"
       ]
     },
     {
