@@ -15,7 +15,7 @@
 (function(){
     
     var $customFont = $('#custom_icons');
-    var $iconsInFont = $('.font-custom_icons>li');
+    var $iconsInFont = $('.font-custom_icons>li', $customFont);
     var $oldFontAwesome = $('#fontawesome');
     
     // Massive search/replace made to build this list of unicodes
@@ -550,8 +550,8 @@
         if (idx < total) {
             var $this = $($iconsInFont.get(idx));
             $('.icon-edit', $this).click();
-            $this.one('fma:edit-modal-available', setIconProperties);
-            setTimeout(function(){$this.trigger('fma:edit-modal-available');}, 1000);
+            $this.one('ftf:edit-modal-available', setIconProperties);
+            setTimeout(function(){$this.trigger('ftf:edit-modal-available');}, 1000*2);
         }
     };
     
@@ -588,8 +588,8 @@
         // Save!
         var $saveBtn = $('[data-on-click="cmd:glyph_options.save"]', $form);
         $saveBtn.click();
-        $this.one('fma:edit-modal-saved', selectIcon);
-        setTimeout(function(){$this.trigger('fma:edit-modal-saved');}, 500);
+        $this.one('ftf:edit-modal-saved', selectIcon);
+        setTimeout(function(){$this.trigger('ftf:edit-modal-saved');}, 1000*2);
     };
     
     var getNameFromUnicode =  function(unicode) {
@@ -607,7 +607,7 @@
         setTimeout(function(){
             idx++;
             parseNextIcon();
-        }, 500);
+        }, 1000*2);
     };
     
     // Start parsing
